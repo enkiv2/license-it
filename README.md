@@ -1,8 +1,8 @@
 # license-it
 
-Create a COPYING file for a git or svn repository containing a personalized version of the 3-clause BSD license, and try to commit it.
+Create a COPYING file for a git or svn repository containing a personalized version of a license (3-clause BSD license by default), and try to commit it.
 
-In the future, I'd like to support multiple licenses and allow the mechanisms by which project name, date, and copyright owner can be overridden.
+In the future, I'd like to support mechanisms by which project name, date, and copyright owner can be overridden.
 
 For now, the date is the system date, the project name is the directory name of the current checkout, and the owner is set to the 'fullname' field in /etc/password
 
