@@ -260,7 +260,7 @@ if [[ "$1" != "" ]] ; then
 		lgpl) license="$lgpl" ;;
 		agpl) license="$agpl" ;;
 		allpermissive) license="$allpermissive" ;;
-		hippocratic) license="$hippogratic" ;;
+		hippocratic) license="$hippocratic" ;;
 		apache) license="$apache" ;;
 		cc0) license="$cc0" ;;
 		*) 
